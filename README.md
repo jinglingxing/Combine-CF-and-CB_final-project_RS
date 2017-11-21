@@ -17,6 +17,8 @@ Compute prediction for each vote while keep other original vote and Mean absolut
 User-User and Item-Item separately.
 
 # Conclusion
+![image](https://github.com/jinglingxing/Combine-CF-and-CB_final-project_RS/blob/master/UserUser_Result.png)
+
 The collaborative filtering performed well on User-User analysis, when the weight of content-based increased, the performance decreased.
 
 The collaborative filtering and content-based approached both performed well separately on Item-Item analysis.
