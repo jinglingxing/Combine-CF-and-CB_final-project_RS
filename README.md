@@ -18,7 +18,9 @@ User-User and Item-Item separately.
 
 # Conclusion
 ![image](https://github.com/jinglingxing/Combine-CF-and-CB_final-project_RS/blob/master/UserUser_Result.png)
-
+The UserUser result of the hybrid method
+![image](https://github.com/jinglingxing/Combine-CF-and-CB_final-project_RS/blob/master/ItemItem_Result.png)
+The ItemItem result of the hybrid method
 The collaborative filtering performed well on User-User analysis, when the weight of content-based increased, the performance decreased.
 
 The collaborative filtering and content-based approached both performed well separately on Item-Item analysis.
