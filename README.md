@@ -17,15 +17,16 @@ Compute prediction for each vote while keep other original vote and Mean absolut
 User-User and Item-Item separately.
 
 # Conclusion
+### The UserUser result of the hybrid method
 ![image](https://github.com/jinglingxing/Combine-CF-and-CB_final-project_RS/blob/master/UserUser_Result.png)
-The UserUser result of the hybrid method
+### The ItemItem result of the hybrid method
 ![image](https://github.com/jinglingxing/Combine-CF-and-CB_final-project_RS/blob/master/ItemItem_Result.png)
-The ItemItem result of the hybrid method
+
 The collaborative filtering performed well on User-User analysis, when the weight of content-based increased, the performance decreased.
 
 The collaborative filtering and content-based approached both performed well separately on Item-Item analysis.
 
-But combining the CF and CB together, the User-User and Item-Item both performed worse.
+But combining the CF and CB togethe, the User-User and Item-Item both performed worse.
 
 The value of MSE in both two cases is higher than MAE, because of the square is a big number.
 
